@@ -1,4 +1,4 @@
-//"copyright [2022] <Kyanh Pham>" [legal / copyright][5]//
+// "copyright [2022] <Kyanh Pham>" [legal / copyright][5]//
 
 #include <iostream>
 
